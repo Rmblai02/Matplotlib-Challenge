@@ -1,6 +1,6 @@
 # Matplotlib-Challenge
 
-###Pymaceuticals Inc.
+### Pymaceuticals Inc.
 
 What good is data without a good plot to tell the story?
 
